@@ -1,4 +1,7 @@
 # Akash
+
 this is my first repository.
 <br>
-author akash soni
+author akash (aditi)
+
+ 
